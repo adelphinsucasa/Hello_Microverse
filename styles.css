@@ -1,0 +1,10 @@
+body {
+    background-color: cyan;
+}
+
+.myheader {
+    background-color: fuchsia;
+    padding: auto;
+    color: red;
+    text-align: center;
+}
