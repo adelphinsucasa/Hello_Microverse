@@ -1,10 +1,10 @@
 body {
-    background-color: cyan;
+  background-color: cyan;
 }
 
 .myheader {
-    background-color: fuchsia;
-    padding: auto;
-    color: red;
-    text-align: center;
+  background-color: fuchsia;
+  padding: auto;
+  color: red;
+  text-align: center;
 }
