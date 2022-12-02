@@ -32,9 +32,9 @@
 - [📝 License](#license)
 
 
-# 📖 [Hello_Microverse!] <a name="about-project"></a>
+# 📖 Hello_Microverse! <a name="about-project"></a>
 
-**[Hello_Microverse!]** is a a project that allows you understand how to setting up your project locally and upload this to github as a repository, fixing the possible issues that you can get in the process.
+Hello_Microverse! is a a project that allows you understand how to setting up your project locally and upload this to github as a repository, fixing the possible issues that you can get in the process.
 
 ## 🛠 Built With <a name="Visual Studio Code"></a>
 
@@ -42,9 +42,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Github]**
-- **[Visual_Studio_Code]**
-- **[Linters]**
+- Github
+- Visual_Studio_Code
+- Linters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,9 +121,9 @@ I would like to thank Microverse and all the persons that got in touch with me w
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **[Is it difficult?]**
+- Is it difficult?
 
-  - [If you have knowledge about github and basic commands, it is easy in other way, it can be little complicated]
+- If you have knowledge about github and basic commands, it is easy in other way, it can be little complicated
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
